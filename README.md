@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Meu cartão de visita" src="./assets/meu-cartao-de-visita.png" width="100%">
+  <img alt="Meu cartão de visita" src="./assets/img/meu-cartao-de-visita.png" width="100%">
 </p>
 
 <br>
